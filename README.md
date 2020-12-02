@@ -1,4 +1,4 @@
-kano-raspbian
+# kano-raspbian
 
 make your raspbian look and behave like kano
 
@@ -7,4 +7,4 @@ make your raspbian look and behave like kano
 kano-extras not working since last update
 
 run:
-sudo ./kano-setup.sh
+`sudo ./kano-setup.sh`
